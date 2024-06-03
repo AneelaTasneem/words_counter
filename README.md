@@ -1,1 +1,1 @@
-"# CLI_wordsCounter" 
+"# words_counter" 
